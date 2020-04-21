@@ -25,7 +25,7 @@ export default () => (
                     <b>T:</b> 020 7117 2490
                 </div>
                 <div className="w-full md:w-3/4 md:pl-10">
-                    <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                    <form name="contact" method="POST" action="https://formspree.io/mrgawnwe" netlify-honeypot="bot-field" data-netlify="true">
                         <input type="hidden" name="bot-field" />
                         <p>
                             <label>Full Name: <input placeholder="E.G John Smith…" className="w-full p-4 mb-2 contactinput-bg" type="text" name="name" /></label>   

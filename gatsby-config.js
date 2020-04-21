@@ -3,7 +3,7 @@ module.exports = {
     title: `Gelos Healthcare`,
     description: `Gelos Healthcare Limited is a specialist healthcare development and investment business which offers partners a rarely found end-to-end service creating sustainable investment into the UK health and social care market.`,
     author: `@pagecreative`,
-    siteUrl: 'http://www.pagedev.co.uk/clients/page-gatsby'
+    siteUrl: 'https://www.geloshealthcare.com'
   },
   plugins: [
      `gatsby-plugin-react-helmet`,
